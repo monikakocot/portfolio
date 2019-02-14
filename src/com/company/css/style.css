@@ -59,7 +59,7 @@ header div.welcome {
 
 }
 
-.welcome p,h1,h2{
+.anim {
   animation: welcome 12s linear infinite;
 }
 
