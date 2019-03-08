@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f87814-12ee-49f7-9580-3075396a118d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/images/medi.jpg" afterPath="$PROJECT_DIR$/src/com/company/images/medi.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/css/style.css" afterPath="$PROJECT_DIR$/src/com/company/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/index.html" afterPath="$PROJECT_DIR$/src/com/company/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/indexEN.html" afterPath="$PROJECT_DIR$/src/com/company/indexEN.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -230,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550169909295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change my photo.">
+      <created>1552084111238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552084111238</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,7 +280,8 @@
     <MESSAGE value="New pictures for projects, js for header." />
     <MESSAGE value="final PL" />
     <MESSAGE value="final EN" />
-    <option name="LAST_COMMIT_MESSAGE" value="final EN" />
+    <MESSAGE value="Change my photo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change my photo." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
